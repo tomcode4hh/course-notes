@@ -4,3 +4,5 @@
 
 Create a shopping-cart-app
 
+Find suitable data and create a data.js file
+
